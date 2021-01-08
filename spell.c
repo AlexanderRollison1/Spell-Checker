@@ -1,5 +1,4 @@
-//Alexander Rollison 1001681800
-
+//Alexander Rollison
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
